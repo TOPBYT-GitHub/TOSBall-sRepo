@@ -16,7 +16,7 @@ C++, C#, JS (JavaScript), JSON, C, Lua, jar and Python (and maybe VBS)
 
 Visual Studio Code, might start using notepad++ but idk
 
-# What HTML elements do you know?
+# What HTML elements do you know? "<>" would fuck up things so i removed it, when coding MAKE SURE TO DO IT LIKE THIS: "<big>Hello!</big>"
 
 big, b, i, style, body, !DOCTYLE html, p, title, html, head, h1 to <h5, video, audio (might be more but idk)
 
