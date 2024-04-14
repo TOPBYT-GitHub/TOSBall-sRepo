@@ -18,6 +18,6 @@ Visual Studio Code, might start using notepad++ but idk
 
 # What HTML elements do you know?
 
-<big>, <b>, <i>, <style>, <body>, <!DOCTYLE html>, <p>, <title>, <html>, <head>, <h1> to <h5>, <video>, <audio> (might be more but idk)
+big, b, i, style, body, !DOCTYLE html, p, title, html, head, h1 to <h5, video, audio (might be more but idk)
 
 Bye im mewing 🤫🧏‍♂️/jk
